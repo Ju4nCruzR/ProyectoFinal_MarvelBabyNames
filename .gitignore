@@ -1,0 +1,10 @@
+data/raw/ssa/ 
+data/raw/names.zip 
+data/processed/ 
+__pycache__/ 
+*.py[cod] 
+.ipynb_checkpoints/ 
+venv/ 
+.env 
+Thumbs.db 
+desktop.ini 
